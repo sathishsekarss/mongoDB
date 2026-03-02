@@ -93,3 +93,17 @@ There are four important tools in MongoDB:
 | Structured Data | Semi-structured Data (JSON/BSON) |
 
 ---
+
+## How to interact with MongoDB ?
+We can interact with mongoDB through mongo shell, compass, MongoDB Atlas.  To interact with a programming language mongoDB also provides different drivers along with documentation on how to use it.
+
+
+## Mongo Shell
+Type mongosh in the shell to invoke the mongo shell terminal.  There you can use mongoDB commands to interact and modify the database.
+
+## Mongo Compass
+Mongo Compass is a GUI interface to interact with the database.  In Mongo compass you can manually add and delete database collections through GUI interface.
+
+## MongoDB Atlas
+A cloud-based MongoDB service that allows you to interact with your database through a web interface.j
+You can connect via API, CLI, or any of the official drivers.
