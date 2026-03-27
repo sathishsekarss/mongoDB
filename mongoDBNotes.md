@@ -107,3 +107,24 @@ Mongo Compass is a GUI interface to interact with the database.  In Mongo compas
 ## MongoDB Atlas
 A cloud-based MongoDB service that allows you to interact with your database through a web interface.j
 You can connect via API, CLI, or any of the official drivers.
+MongoDB commands are pretty much very easy to understand if you have basic knowledge about javascript and Json format.
+
+MongoDB commands are pretty much very easy to understand if you have basic knowledge about javascript and Json format.
+
+The below table shows the list of mongoDB commands that we can use in a database
+
+1. Basic commands
+
+mongosh
+To start mongoDB shell in terminal
+
+show dbs
+To show available databases in the system
+
+use databaseName
+To use a available database in the system
+
+show collections
+To show a list of collections available inside a database
+
+
