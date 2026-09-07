@@ -128,3 +128,5 @@ show collections
 To show a list of collections available inside a database
 
 
+## Mongo DB Connection string
+We use the connection string url to connect to mongodb server.  We can use the connection string inside java code and other frameworks to connect to the mongo db server.
