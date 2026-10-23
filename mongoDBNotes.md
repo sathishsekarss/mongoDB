@@ -130,3 +130,7 @@ To show a list of collections available inside a database
 
 ## Mongo DB Connection string
 We use the connection string url to connect to mongodb server.  We can use the connection string inside java code and other frameworks to connect to the mongo db server.
+
+## SSL/TSL in mongodb connection string
+Instead of using username and password, we can use the ssl or tls certificate to connect to mongo db server.
+ssl or tls can be enabled by adding it to the end of the connection string.
